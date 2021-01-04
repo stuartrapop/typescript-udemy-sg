@@ -2,11 +2,12 @@
 
 # dependencies
 /node_modules
-
+*/node_modules
+web/node_modules
+myappts/node_modules
+maps/node_modules
 /.pnp
 .pnp.js
-/.cache
-
 
 # testing
 /coverage
